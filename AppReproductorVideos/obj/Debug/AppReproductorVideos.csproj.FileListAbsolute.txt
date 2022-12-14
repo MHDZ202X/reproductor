@@ -1,0 +1,15 @@
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\bin\Debug\AppReproductorVideos.exe.config
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\bin\Debug\AppReproductorVideos.exe
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\bin\Debug\AppReproductorVideos.pdb
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\bin\Debug\Interop.WMPLib.dll
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.csprojAssemblyReference.cache
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\Interop.WMPLib.dll
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.csproj.ResolveComReference.cache
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.Form1.resources
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.Properties.Resources.resources
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.csproj.GenerateResource.cache
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.csproj.CoreCompileInputs.cache
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.exe
+C:\Users\costi\source\repos\AppReproductorVideos\AppReproductorVideos\obj\Debug\AppReproductorVideos.pdb
